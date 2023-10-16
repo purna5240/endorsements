@@ -8,7 +8,7 @@ html,body{
 .container{
     max-width:390px;
     background: #1B1924;
-    margin:20px auto;
+    margin:0px auto;
     padding-bottom:25px;    
     color: #FFF;
     font-family: Josefin Sans;
